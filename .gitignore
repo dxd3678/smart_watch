@@ -1,0 +1,13 @@
+
+# 文件类型
+*.d
+*.o
+*.axf
+*.dep
+*.htm
+*.lst
+*.lnp
+*.map
+*.sct
+*.dbgconf
+*.dxd36
